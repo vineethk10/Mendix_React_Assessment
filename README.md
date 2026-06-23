@@ -189,3 +189,22 @@ With more time, I would add:
 * Improved map widget with clustering and better marker styling
 
 ---
+
+## Screenshots
+
+* Work Order Overview
+
+<img width="1359" height="765" alt="image" src="https://github.com/user-attachments/assets/3a69b424-4f1a-48c8-b7c4-610a45606bc2" />
+
+<img width="1363" height="722" alt="image" src="https://github.com/user-attachments/assets/1cbb6b17-1823-4d6b-91d0-604873e1c195" />
+
+*Widget*
+
+<img width="1362" height="727" alt="image" src="https://github.com/user-attachments/assets/4ea99c14-0ba9-4035-8ca1-e4e831d6e17a" />
+
+*Batch Job Overview*
+
+<img width="1363" height="639" alt="image" src="https://github.com/user-attachments/assets/57dce3a4-40b2-4b35-a4ca-639651390912" />
+
+
+
