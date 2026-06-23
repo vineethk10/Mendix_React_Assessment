@@ -2,6 +2,7 @@
 
 Project repository / exported Mendix package:
 
+Mendix Version 11.11.0
 `https://github.com/vineethk10/Mendix_React_Assessment`
 
 ---
