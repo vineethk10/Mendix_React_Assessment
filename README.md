@@ -165,11 +165,11 @@ This gives visibility into large data generation and processing.
 * Retry Failed button is added but not implemented.
 * Error handling is basic.
 * No advanced audit history.
-* No dead-letter queue.
 * No advanced monitoring or alerting.
 * Google API key configuration is basic for demo purposes.
 * The map widget shows basic pin functionality only.
 * The app should not render 100,000 map pins at once.
+* Data is reused.
 
 ---
 
