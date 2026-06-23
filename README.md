@@ -200,7 +200,7 @@ With more time, I would add:
 
 *Widget*
 
-<img width="1362" height="727" alt="image" src="https://github.com/user-attachments/assets/4ea99c14-0ba9-4035-8ca1-e4e831d6e17a" />
+<img width="1364" height="661" alt="image" src="https://github.com/user-attachments/assets/049c37b3-ca0d-40e8-b2d1-41f3e6070da6" />
 
 *Batch Job Overview*
 
