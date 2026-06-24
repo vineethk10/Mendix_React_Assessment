@@ -1,6 +1,6 @@
 ## 1. Project Link
 
-Project repository / exported Mendix package:
+Project repository 
 
 Mendix Version 11.11.0
 `https://github.com/vineethk10/Mendix_React_Assessment`
